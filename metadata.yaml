@@ -1,0 +1,30 @@
+_repo: Bad-Medicine_9055
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sheckley, Robert
+    aliases:
+    - Barbee, Phillips
+    - Lang, Ned
+    birthdate: 1928
+    deathdate: 2005
+    gutenberg_agent_id: '2960'
+    url: http://www.gutenberg.org/2009/agents/2960
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Sheckley
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9055'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+title: Bad Medicine
+url: http://www.gutenberg.org/ebooks/9055
